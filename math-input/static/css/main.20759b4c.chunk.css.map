@@ -1,0 +1,1 @@
+{"version":3,"sources":["math-input.css"],"names":[],"mappings":"AAAA,OACI,WAAY,CACZ,kBAAmB,CACnB,SAAU,CACV,qBACJ","file":"main.20759b4c.chunk.css","sourcesContent":[".input {\n    width: 500px;\n    margin: 50px auto 0;\n    padding: 0;\n    border: 1px solid #000;\n}\n"]}
